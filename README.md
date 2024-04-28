@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Hemss and I'm a Software Engineer from Indi</h3>
+<h3 align="left">Hi 👋! My name is Hemss and I'm a Software Engineer from India</h3>
 
 ###
 
